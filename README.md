@@ -2,7 +2,7 @@
 
 ![Wordle Game](/img/wordle-screenshot.PNG)
 
-[Live Demo](https://gingfreecss2.github.io/wordle/)
+[Live Demo](https://gingfreecss2.github.io/Wordle-guessing-game/)
 <!-- Add your live demo link here -->
 
 Wordle is a word-guessing game where players attempt to guess a hidden 5-letter word within a limited number of attempts. This project is a simple JavaScript implementation of the Wordle game.
